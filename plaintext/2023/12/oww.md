@@ -1,1 +1,23 @@
+---
+title:
+original-title:
+description:
+authors:
+  -
+translators:
+  -
+date:
+collections:
+  -
+tags:
+  -
+license:
+sources:
+  -
+archives:
+  -
+preprocessing:
+accessibility-notes:
+notes:
+---
 sitelen taso la linja
